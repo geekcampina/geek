@@ -60,40 +60,23 @@
     <div class="row">
       <h2 class="centered"><strong>Nossos Serviços</strong></h2>
       <hr>
-      
-
       <div class="col-lg-4 callout">
-        <img src="assets/img/website.png">
         <h3>Web Sites</h3>
         <p>Desenvolver aplicativos mobile ou em versão de sites com perfeita usabilidade em smartphone e tabletes.</p>
       </div>
-
-
       <div class="col-lg-4 callout">
-        <img src="assets/img/mobile.png">
         <h3>Mobile</h3>
         <p>Desenvolver aplicativos mobile ou em versão de sites com perfeita usabilidade em smartphone e tabletes.</p>
       </div>
-
-
-
       <div class="col-lg-4 callout">
-        <img src="assets/img/sweb.png">
         <h3>Sistema Web</h3>
         <p>Desenvolver aplicativos mobile ou em versão de sites com perfeita usabilidade em smartphone e tabletes.</p>
       </div>
-
-
-
-
       <div class="col-lg-4 callout">
-        <img src="assets/img/redes.png">
         <h3>Redes de Computadores</h3>
         <p>Desenvolver aplicativos mobile ou em versão de sites com perfeita usabilidade em smartphone e tabletes.</p>
       </div>
-
       <div class="col-lg-4 callout">
-        <img src="assets/img/manutencao.png">
         <h3>Assistência Técnica</h3>
         <p>Desenvolver aplicativos mobile ou em versão de sites com perfeita usabilidade em smartphone e tabletes.</p>
       </div>
