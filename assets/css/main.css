@@ -1,3 +1,7 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+@import url(http://fonts.googleapis.com/css?family=Signika);
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans);
 html, button, input, select, textarea {
 	color: #222;
 }
@@ -225,17 +229,25 @@ a:before, a:after {
 }
 #headerwrap h1 {
 	color: #ffffff;
+	font-family:'Montserrat';
 	font-size: 50px;
 	font-weight: 400;
 	text-align: center;
 	letter-spacing: 3px;
 }
 #headerwrap p {
-	color: #fff;
-	font-size: 22px;
+
+
+	color: #FFFFFF;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 32px;
+	margin-left: 22px;
+	margin-right: 42px;
 	font-weight: 300;
 	text-align: justify;
 	letter-spacing: 1px;
+
+
 }
 #headerwrap .icon {
 	color: #ffffff;
@@ -304,7 +316,7 @@ a:before, a:after {
 	transition: all .3s;
 }
 #team .fa:hover {
-	background-color: #ffbf00;
+	background-color: #	;
 }
 #portfolio {
 	background: #fff;
@@ -526,11 +538,17 @@ body .header {
 }
 
 @media screen and (max-width:769px) {
+
 #headerwrap h1 {
-	font-size: 80px;
+	font-size: 50px;
+
 }
+
 #headerwrap p {
-	font-size: 30px;
-	line-height: 38px;
+	font-size: 20px;
+	line-height: 30px;
+	font-family: 'Noto Sans', sans-serif;
+
 }
 }
+
